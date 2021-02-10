@@ -1,5 +1,5 @@
-# Autodeploy
+# Hosting
 
-Проект автоматически обновляется на hosting, при любом коммите в master-ветку этого репозитория
+Проект работает на github pages, т.е. не требует отдельного хостинга, а запусакается прям с github.
 
-[![Deploy Status](https://github.com/citysites/restafusion.048.ua/workflows/CD/badge.svg)](https://github.com/citysites/restafusion.048.ua/actions)
+Для полноценной работы проекта пришлось переименовать исходные имена файлов в те, которые соответствуют рерайтам.
